@@ -18,4 +18,4 @@ The objective was to train an image classifier from the Modified National Instit
 
 The model was able to generate an accuracy of ~99.8%! 
 
-This was a really fun and easy project to basically test out the "Hello World" of Machine Learning & Neural Networks! This was also my first time utilizing python for a project so it was definitely a really cool learning experience! I suggest you readers to try it out for yourself as well!
+This was a really fun and easy project to basically test out the "Hello World" of Machine Learning & Neural Networks! This was also my first time utilizing python for a project so it was definitely a really cool learning experience! I recommend that readers try it out for yourselves as well!
