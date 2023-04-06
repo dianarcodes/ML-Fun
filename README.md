@@ -1,6 +1,4 @@
-# ML-Fun
-
-## MNIST Dataset
+# MNIST Dataset
 
 ### Objective 
 The objective was to train an image classifier from the Modified National Institute of Standards and Technology (MNIST) dataset. It is a dataset with 60,000 training and 10,000 testing samples of grayscale handwritten images of numbers between 0-9. The neural network model must be able to classify the handwritten numbers into one of ten possible classes. I chose the MNIST dataset because I thought it would be fun to train a classifier that could recognize handwritten images and predict their numerical value! 
