@@ -4,6 +4,7 @@
 The objective was to train an image classifier from the Modified National Institute of Standards and Technology (MNIST) dataset. It is a dataset with 60,000 training and 10,000 testing samples of grayscale handwritten images of numbers between 0-9. The neural network model must be able to classify the handwritten numbers into one of ten possible classes. I chose the MNIST dataset because I thought it would be fun to train a classifier that could recognize handwritten images and predict their numerical value! 
 
 ### Sample Images
+<img width="564" alt="Screenshot 2023-04-06 at 12 12 06 AM" src="https://user-images.githubusercontent.com/94495024/230270270-bff7d4e6-80eb-4f86-bd5e-9ea08cd74835.png">
 
 ### Process
 1) I began by importing several Machine Learning libraries from Keras and loading the dataset. Normally, the dataset would have to be split into training and validation sets, but the MNIST dataset provides both. I plotted the dataset into its 10 classes (0-9) to better visualize the task. The model would have to be able to distinguish between the black background pixels (0 bits) and the white pixels (255 bits) of the numbers. Therefore, the data—passed as a vector of 10—was normalized with this information in mind. 
